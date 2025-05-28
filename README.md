@@ -5,6 +5,11 @@ An intelligent recommendation system built using **Python**, **Machine Learning*
 [![Watch the Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1yy45KNDyu7gMazjjEhgI55odh37RUcWu/view?usp=drive_link)
 
 ---
+[![AppView](https://github.com/user-attachments/assets/ff1686a1-9de1-4236-b359-547855563619)](https://drive.google.com/file/d/1VECkEe79jBUMddDqJAuC_5yTMWok5jtY/view)
+
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1VECkEe79jBUMddDqJAuC_5yTMWok5jtY/view)
+
+---
 
 ## 🔍 Features
 
