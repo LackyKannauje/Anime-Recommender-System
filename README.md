@@ -18,7 +18,8 @@ An intelligent recommendation system built using **Python**, **Machine Learning*
 
 ## 📸 Screenshot
 
-![Anime Recommender Screenshot]([https://i.imgur.com/M5tLrbf.png](https://drive.google.com/file/d/1l35PRWvGtqNQjdVfPr2Tw_nIbHGL88xD/view?usp=sharing)) <!-- Replace with your actual screenshot URL -->
+![Anime Recommender Screenshot] ![image](https://github.com/user-attachments/assets/c0e42017-3d9c-41a3-a9a7-cea3931eeb88)
+ <!-- Replace with your actual screenshot URL -->
 
 ---
 
